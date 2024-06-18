@@ -37,15 +37,10 @@ Executing program:
 
 3) The visualizations folder in current directory contain the visualizations after each epoch obtained during the training of our model.
 
-Authors:
-
-Arush Dayal
-Aryan Vats
-
 Acknowledgments:
 
-Inspiration, code snippets, etc.
-
+Certain code snippets have been taken from the following tutorial for certain components of the model:
 https://www.tensorflow.org/tutorials/generative/pix2pix
 
+The paper referred to for the architetcure is:
 https://openaccess.thecvf.com/content_CVPR_2019/papers/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.pdf
