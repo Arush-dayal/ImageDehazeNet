@@ -1,4 +1,5 @@
-Custom Pix2PixHD architecture for image dehazing.
+##Custom Pix2PixHD architecture for image dehazing.
+
 
 
 Dependencies:
